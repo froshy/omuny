@@ -1,0 +1,15 @@
+A money managing app between friends
+
+!!! Does not handle transactions, only keeps records users input !!!
+
+Features:
+
+1. Get total money you owe others
+2. Get total money owed to you
+3. Get money you owe a singular account
+4. Add entries for oweing money and owed money
+5. Two person verification deleting entries
+6. Report entires to other account 'friends' for verificaiton/deletion (is this situation of owing money real/fair)
+
+7. Interactive gui??
+
